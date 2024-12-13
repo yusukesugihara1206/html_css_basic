@@ -39,37 +39,25 @@ body {
 
 /* 上の部分は気にせずここから書く */
 
-div{
+div {
   width: 400px;
-  height: 300px
+  height: 300px;
 }
 
-.first{
-  background-color: black
+.first {
+  background-color: black;
+  color: white;
+  margin: 2px 0px 0px 2px;
 }
 
-.first{
-  color: white
+div {
+  width: 400px;
+  height: 300px;
 }
   
-.first{
-  margin: 2px 0px 0px 2px
+.second {
+  background-color: white;
+  color: black;
+  margin: 0px 0px 10px 2px;
+  border: 2px solid black;
 }
-
-div{
-    width: 400px;
-    height: 300px
-  }
-  
-  .second{
-    background-color: white
-  }
-
-  .second{
-    color: black
-  }
-
-  .second{
-    margin: 0px 0px 10px 2px;
-    border: 2px solid black
-  }

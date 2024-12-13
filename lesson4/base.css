@@ -40,13 +40,13 @@ body {
 /* 上の部分は気にせずここから書く */
 
 
-.container{
+.container {
   display: flex;
   flex-direction: row;
   justify-content: center;
 }
 
-.item_1{
+.item_1 {
   display: flex;
   background-color: red;
   width: 200px;
@@ -55,11 +55,9 @@ body {
   border: 1px solid black;
   position: relative;
   justify-content: center;
-
-
 }
 
-.item_2{
+.item_2 {
   display: flex;
   background-color: blue;
   width: 200px;
@@ -68,10 +66,9 @@ body {
   border: 1px solid black;
   position: relative;
   justify-content: flex-end;
-  
 }
 
-.item_3{
+.item_3 {
   display: flex;
   background-color: green;
   width: 200px;
@@ -80,7 +77,6 @@ body {
   border: 1px solid black;
   position: relative;
   flex-direction:column-reverse;
-  
 }
 
 .box1 {
